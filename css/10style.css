@@ -1,0 +1,10 @@
+'use strict'
+
+.header{ 
+  Display:flex;
+}
+.bar{ 
+  background-color: darkgrey;
+  height: 25px;
+
+}
